@@ -1,0 +1,23 @@
+*{
+  background-color: rgb(238, 216, 93);
+}
+.App{
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  padding: 50px;
+  
+}
+.btn{
+  padding: 6px;
+  margin: 4px;
+  background-color: purple;
+  color: white;
+
+}
+input{
+  border-color: purple;
+  height: 2rem;
+  color: purple;
+  font-size: medium;
+}
